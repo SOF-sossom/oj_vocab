@@ -1,6 +1,6 @@
 {
-  "name": "OJ 어휘 · KEYFRAME",
-  "short_name": "OJ 어휘",
+  "name": "KEYFRAME 어휘",
+  "short_name": "KEYFRAME 어휘",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
